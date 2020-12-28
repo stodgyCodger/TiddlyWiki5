@@ -26,9 +26,11 @@ You can use links (normally displayed as blue text) to navigate from one tiddler
 
 ** The ''Recent'' tab lists the 100 most recently modified tiddlers, beginning with the most recently modified.
 
-** The ''More'' tab offers eight additional lists of tiddlers:
+** The ''More'' tab offers eleven additional lists of tiddlers:
 
 *** ''All'' lists all tiddlers in alphabetical order.
+
+*** ''Recent'' lists the 100 most recently modified tiddlers, beginning with the most recently modified.
 
 *** ''Tags'' lists all the tags. You can click on the pill for any tag to access a list of the tiddlers tagged with that tag.
 
@@ -43,6 +45,10 @@ You can use links (normally displayed as blue text) to navigate from one tiddler
 *** ''System'' lists all of the SystemTiddlers.
 
 *** ''Shadows'' lists all of the ShadowTiddlers.
+
+*** ''Explorer'' shows the system and shadow tiddlers in a branch view which is useful for recognizing relationships between tiddlers.
+
+*** ''Plugins'' lists all of the currently installed plugins.
 
 * ''Search results'' are a list of the tiddlers that contain the text you type in the search box.
 
